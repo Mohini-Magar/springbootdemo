@@ -1,1 +1,1 @@
-I love java
+Welcome ${obj.aid}, ${obj.aname}, ${obj.lang}
